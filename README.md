@@ -1,7 +1,7 @@
 ## PHP Exam CRUD operation in API
 This project is a RESTful API built with PHP to manage Users, Products, and Orders. It includes CRUD operations with endpoints for adding, retrieving, updating, and deleting records. The API adheres to REST principles, provides JSON responses, and includes error handling.
 
-- Config folder contains config.php file which is for the sql queries.
+- Config folder contains config.php file which contains backend service for the database.
 
 ## Key Features:
 - Users: Add and retrieve user data.
