@@ -11,3 +11,7 @@ The project is organized with proper folder structure (routes, models, controlle
 
 ## 👇Video Link👇
 <a href = "https://drive.google.com/file/d/1gw26cr2n0HvnpmyMugL5xt-YWRlZvEJP/view?usp=sharing"> Video Link </a>
+
+## Video of code
+
+https://github.com/user-attachments/assets/48cb5be1-e8fb-4570-8a4e-eae97038ebbc
